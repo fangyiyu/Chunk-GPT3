@@ -4,4 +4,4 @@ This repo includes the python notebook for the honeyword generation technique Ch
 
 The presentation recording of the project can be found [here](https://ontariotechu-my.sharepoint.com/:v:/g/personal/fangyi_yu_ontariotechu_ca/ESsGklyo8-NBl5WYf-xTvzIB5iwRIFfHxg05mzJIFM9HZQ?e=LSg5ff).
 
-The slide deck is avaible [here](https://ontariotechu-my.sharepoint.com/:v:/g/personal/fangyi_yu_ontariotechu_ca/ESsGklyo8-NBl5WYf-xTvzIB5iwRIFfHxg05mzJIFM9HZQ?e=LSg5f_).
+The slide deck is avaible [here](https://ontariotechu-my.sharepoint.com/:p:/g/personal/fangyi_yu_ontariotechu_ca/EUfyoOIv4gVKv5VnJdPulQEBlV0brudqMs7zorvSsXMhuQ?e=wd5Bx5).
